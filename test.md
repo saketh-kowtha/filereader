@@ -1,6 +1,8 @@
 # Kowtha Saketh
-** Email : kowtha.saketh@outlook.com **
-** Website : http://www.kowthasaketh.com **
+```
+Email : kowtha.saketh@outlook.com
+Website : http://www.kowthasaketh.com
+```
 ## Academics
 
 Degree | Institute | Year
